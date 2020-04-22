@@ -1,0 +1,20 @@
+I=1mA
+f=57hz
+v2w = 231.9?V
+V3w = 870.6?V
+
+
+X de d?part = 20
+Y de d?part = 100
+X de fin = 40
+Y de fin = 100
+Pas de X = 5
+Pas de Y = 1
+
+Appareil d?placement : E727
+Sens du scan : XY ==> X puis Y
+Param?tre du seuil = Phase_5210
+Diff?rence de phase (seuil) = 10
+S?curit? de phase (seuil) = 5
+
+Date et heure;Rta(Ohm);Amp_sr850_2(?V);Pha_sr850_2(?);Freq_sr850(Hz)_2;Courant AC_6221(Arms);Freq_6221(Hz);Offs_6221(A);Courant DC_6221(A);Amp_sr850(?V);Pha_sr850(?);Freq_sr850(Hz);Ampl_5210_daq(?V);Pha_5210_daq(?V);X_727(?m);Y_727(?m);Z_727(?m);Temps ?tude(s);

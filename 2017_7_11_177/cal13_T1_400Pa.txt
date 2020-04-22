@@ -1,0 +1,37 @@
+I=1mA
+f=57hz
+v2w = 231.9?V
+V3w = 870.6?V
+
+
+X de d?part = 20
+Y de d?part = 100
+X de fin = 40
+Y de fin = 100
+Pas de X = 5
+Pas de Y = 1
+
+Appareil d?placement : E727
+Sens du scan : XY ==> X puis Y
+Param?tre du seuil = Phase_5210
+Diff?rence de phase (seuil) = 10
+S?curit? de phase (seuil) = 5
+
+Date et heure;Rta(Ohm);Amp_sr850_2(?V);Pha_sr850_2(?);Freq_sr850(Hz)_2;Courant AC_6221(Arms);Freq_6221(Hz);Offs_6221(A);Courant DC_6221(A);Amp_sr850(?V);Pha_sr850(?);Freq_sr850(Hz);Ampl_5210_daq(?V);Pha_5210_daq(?V);X_727(?m);Y_727(?m);Z_727(?m);Temps ?tude(s);
+
+Z de départ (um) ==> 0
+Incrément pas fin (um) ==> 0,00050
+Distance après seuil (um) ==> 0,0005
+Distance d'approche max (um) ==> 10
+Distance retrait après contact (um) ==> 0,2500
+Distance retait si encore contact (um) ==> 0,57
+Distance retrait max sécurité (um) ==> 1,2
+Parameters PID2
+F_0 (Hz) ==> 31842,7966
+P ==> 3
+I ==> 0
+D ==> 70
+
+
+Data
+11/07/2017 17:12:40;1093.5144;;676.099;136.938;56.9973;0.001;57;0;0;151.62;52.842;56.9992;4.86361750631751;-0.0353036049054936;19.99824524;99.9982605;10.00030327;293;

@@ -1,0 +1,13 @@
+ Sin out =1
+
+  Harmonique =3
+
+  Frequence =0.9999
+
+  Filtre =3
+
+  Constante de temps =12
+
+  Sensibilit? =17
+
+                               
